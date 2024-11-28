@@ -1,0 +1,151 @@
+import turtle
+#Rego Märk
+#tk09
+#4,5,6
+
+
+#4
+turtle.speed(10)
+for i in range(1):
+    turtle.rt(90)
+    turtle.fd(25)
+    turtle.lt(90)
+    turtle.fd(50)
+    turtle.lt(90)
+    turtle.fd(50)
+    turtle.lt(90)
+    turtle.fd(50)
+    turtle.lt(90)
+    turtle.fd(25)
+    turtle.lt(70)
+    turtle.fd(25)
+    turtle.lt(90)
+    turtle.fd(50)
+    turtle.lt(90)
+    turtle.fd(50)
+    turtle.lt(90)
+    turtle.fd(50)
+    turtle.lt(90)
+    turtle.fd(25)
+    turtle.lt(80)
+    turtle.fd(25)
+    turtle.lt(90)
+    turtle.fd(50)
+    turtle.lt(90)
+    turtle.fd(50)
+    turtle.lt(90)
+    turtle.fd(50)
+    turtle.lt(90)
+    turtle.fd(25)
+    turtle.lt(70)
+    turtle.fd(25)
+    turtle.lt(90)
+    turtle.fd(50)
+    turtle.lt(90)
+    turtle.fd(50)
+    turtle.lt(90)
+    turtle.fd(50)
+    turtle.lt(90)
+    turtle.fd(25)
+    turtle.lt(80)
+    turtle.fd(25)
+    turtle.lt(90)
+    turtle.fd(50)
+    turtle.lt(90)
+    turtle.fd(50)
+    turtle.lt(90)
+    turtle.fd(50)
+    turtle.lt(90)
+    turtle.fd(25)
+    turtle.lt(70)
+    turtle.penup()
+    turtle.goto(150,0)
+    turtle.pendown()
+    turtle.rt(10)
+    turtle.fd(25)
+    turtle.rt(90)
+    turtle.fd(50)
+    turtle.rt(90)
+    turtle.fd(25)
+    turtle.rt(90)
+    turtle.fd(50)
+    turtle.fd(25)
+    turtle.rt(90)
+    turtle.fd(50)
+    turtle.rt(90)
+    turtle.fd(25)
+    turtle.rt(90)
+    turtle.fd(50)
+    turtle.fd(25)
+    turtle.rt(90)
+    turtle.fd(50)
+    turtle.rt(90)
+    turtle.fd(25)
+    turtle.rt(90)
+    turtle.fd(50)
+    turtle.fd(25)
+    turtle.rt(90)
+    turtle.fd(50)
+    turtle.rt(90)
+    turtle.fd(25)
+    turtle.rt(90)
+    turtle.fd(50)
+    turtle.penup()
+    turtle.fd(150)
+    turtle.pendown()
+    turtle.rt(30)
+    turtle.fd(50)
+    turtle.lt(120)
+    turtle.fd(50)
+    turtle.lt(120)
+    turtle.fd(50)
+    turtle.fd(50)
+    turtle.lt(120)
+    turtle.fd(50)
+    turtle.lt(120)
+    turtle.fd(50)
+    turtle.fd(50)
+    turtle.lt(120)
+    turtle.fd(50)
+    turtle.lt(120)
+    turtle.fd(50)
+    turtle.fd(50)
+    turtle.lt(120)
+    turtle.fd(50)
+    turtle.lt(120)
+    turtle.fd(50)
+    turtle.fd(50)
+    turtle.lt(120)
+    turtle.fd(50)
+    turtle.lt(60)
+    turtle.fd(50)
+    turtle.lt(60)
+    turtle.fd(50)
+    turtle.lt(60)
+    turtle.fd(50)
+    turtle.lt(60)
+    turtle.fd(50)
+    turtle.lt(60)
+    turtle.fd(50)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+turtle.done()
+    
