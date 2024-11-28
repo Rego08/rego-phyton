@@ -1,13 +1,13 @@
 import turtle
+#Harjutus9
 #Rego Märk
-#tk09
-#4,5,6
 
 
-#4
-turtle.speed(10)
-for i in range(1):
-    turtle.rt(90)
+
+
+turtle.speed(15)
+for i in range(5):
+    turtle.rt(75)
     turtle.fd(25)
     turtle.lt(90)
     turtle.fd(50)
@@ -17,135 +17,36 @@ for i in range(1):
     turtle.fd(50)
     turtle.lt(90)
     turtle.fd(25)
-    turtle.lt(70)
-    turtle.fd(25)
-    turtle.lt(90)
-    turtle.fd(50)
-    turtle.lt(90)
-    turtle.fd(50)
-    turtle.lt(90)
-    turtle.fd(50)
-    turtle.lt(90)
-    turtle.fd(25)
-    turtle.lt(80)
-    turtle.fd(25)
-    turtle.lt(90)
-    turtle.fd(50)
-    turtle.lt(90)
-    turtle.fd(50)
-    turtle.lt(90)
-    turtle.fd(50)
-    turtle.lt(90)
-    turtle.fd(25)
-    turtle.lt(70)
-    turtle.fd(25)
-    turtle.lt(90)
-    turtle.fd(50)
-    turtle.lt(90)
-    turtle.fd(50)
-    turtle.lt(90)
-    turtle.fd(50)
-    turtle.lt(90)
-    turtle.fd(25)
-    turtle.lt(80)
-    turtle.fd(25)
-    turtle.lt(90)
-    turtle.fd(50)
-    turtle.lt(90)
-    turtle.fd(50)
-    turtle.lt(90)
-    turtle.fd(50)
-    turtle.lt(90)
-    turtle.fd(25)
-    turtle.lt(70)
-    turtle.penup()
-    turtle.goto(150,0)
-    turtle.pendown()
-    turtle.rt(10)
-    turtle.fd(25)
-    turtle.rt(90)
-    turtle.fd(50)
-    turtle.rt(90)
-    turtle.fd(25)
-    turtle.rt(90)
-    turtle.fd(50)
-    turtle.fd(25)
-    turtle.rt(90)
-    turtle.fd(50)
-    turtle.rt(90)
-    turtle.fd(25)
-    turtle.rt(90)
-    turtle.fd(50)
-    turtle.fd(25)
-    turtle.rt(90)
-    turtle.fd(50)
-    turtle.rt(90)
-    turtle.fd(25)
-    turtle.rt(90)
-    turtle.fd(50)
-    turtle.fd(25)
-    turtle.rt(90)
-    turtle.fd(50)
-    turtle.rt(90)
-    turtle.fd(25)
-    turtle.rt(90)
-    turtle.fd(50)
-    turtle.penup()
-    turtle.fd(150)
-    turtle.pendown()
-    turtle.rt(30)
-    turtle.fd(50)
+    
+
+turtle.penup()
+turtle.lt(15)
+turtle.fd(150)
+turtle.pendown()
+
+for i in range(6):
     turtle.lt(120)
     turtle.fd(50)
     turtle.lt(120)
-    turtle.fd(50)
-    turtle.fd(50)
-    turtle.lt(120)
-    turtle.fd(50)
-    turtle.lt(120)
-    turtle.fd(50)
-    turtle.fd(50)
-    turtle.lt(120)
-    turtle.fd(50)
-    turtle.lt(120)
-    turtle.fd(50)
-    turtle.fd(50)
-    turtle.lt(120)
-    turtle.fd(50)
-    turtle.lt(120)
-    turtle.fd(50)
     turtle.fd(50)
     turtle.lt(120)
     turtle.fd(50)
     turtle.lt(60)
     turtle.fd(50)
-    turtle.lt(60)
+
+turtle.penup()
+turtle.rt(90)
+turtle.fd(150)
+turtle.pendown()
+
+for i in range(4):
     turtle.fd(50)
-    turtle.lt(60)
+    turtle.lt(90)
+    turtle.fd(25)
+    turtle.lt(90)
     turtle.fd(50)
-    turtle.lt(60)
-    turtle.fd(50)
-    turtle.lt(60)
-    turtle.fd(50)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    turtle.lt(90)
+    turtle.fd(25)
+    
 
 turtle.done()
-    
